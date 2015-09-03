@@ -1,0 +1,2 @@
+# pushpa
+When I read the output of my Visual Studio 13 on my project's load, I get the following exception:  Exception was thrown at line 1983, column 11 in http://localhost:50344/Scripts/angular.js  0x800a139e - JavaScript runtime error: [$injector:nomod] Module 'angularUtils.directives.dirPagination' is not available! You either misspelled the module name or forgot to load it. If registering a module ensure that you specify the dependencies as the second argument.
